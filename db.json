@@ -1,0 +1,14 @@
+{
+  "libros": [
+    {
+      "id": 5,
+      "nombre": "Aprende React Hooks v2",
+      "precio": "53"
+    },
+    {
+      "id": 6,
+      "nombre": "Aprendiendo Hooks v1",
+      "precio": "38"
+    }
+  ]
+}
